@@ -1,0 +1,41 @@
+
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+	padding: 15px;
+	font-size: 20px;
+}
+nav.menu-nav ul li.btn:hover a{
+	color: blue;
+	background-color: gray;
+	transition: 0.3s;
+}
+
+p.welcome{
+	color: blue;
+	background-color: yellow;
+	font-weight: bold;
+	padding: 20px;
+}
+p.parfait{
+	color: black;
+	font-weight: bold;padding-left: 20px;
+}
+body{
+	background-color: dimgray;
+	background: url("https://static.vecteezy.com/ti/vecteur-libre/p1/5689667-collection-d-empreintes-de-pattes-de-chien-et-de-chat-jeu-d-icones-de-pattes-icone-noir-gratuit-vectoriel.jpg");
+	background-size: 1000px;
+}
+h1{
+	font-size: 50px;
+	padding-left: 50px;
+}
+a{
+	color: darkred;
+}
